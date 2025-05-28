@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmiAtTexas
+- 👋 Hi, I’m Om More
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React
 - 📫 How to reach me Instagram, X, LinkedIn
