@@ -4,22 +4,23 @@ README.md for Frontend Developer with UI/UX, React, HTML, CSS, JavaScript, Pytho
 
 <div align="center">
 
-# 👋 Hi, I'm **[Your Name]**  
-### Frontend Developer | UI/UX Enthusiast | React & Python Developer  
+# 👋 Hi, I'm **Om More**  
+### Frontend Developer | UI/UX Designer  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=for-the-badge)](https://github.com/yourusername?tab=followers)  
+
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 
 ---
 
 ### 🚀 About Me
-I am passionate about building beautiful, performant, and user-friendly web applications. Skilled in UI/UX design principles and modern frontend technologies. I also use Python to build backend tools and scripts.
+Driven Computer Science student with a diverse blend of technical expertise and creative vision. Certified in Google UI/UX Design, Meta Back-End Development, AI/ML, and Business Intelligence. Developed impactful projects ranging from AI chatbots to scalable pharmaceutical research platforms. Proficient in React.js, Python, Tableau, and front-end technologies. Also worked at company “World of Wood” as an design analyst and junior product designer.
 
-- 🔭 I’m currently working on **[Your Project Name]**  
-- 🌱 I’m learning advanced React patterns and full-stack development  
-- 👯 I’m open to collaborating on UI/UX design projects and React apps  
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)  
+Want to know more about me ? [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+
+- 🔭 I’m currently working on **Serenata app**.
+- 🌱 I’m learning advanced React patterns and full-stack development.
+- 👯 I’m open to collaborating on UI/UX design projects and React apps and any other software projects.
+- 📫 How to reach me: [email@example.com](mailto:opm281706@gmail.com) 
 
 ---
 
