@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left"><h2>🚀About me</h2><br><br>Driven Computer Science student with a diverse blend of technical expertise and creative vision. Certified in Google UI/UX Design, Meta Back-End Development, AI/ML, and Business Intelligence. Developed impactful projects ranging from AI chatbots to scalable pharmaceutical research platforms. Proficient in React.js, Python, Tableau, and front-end technologies. Also worked at company “World of Wood” as an design analyst and junior product designer.<br><br>Technical Skills: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow) | Git Web: HTML, CSS, JavaScript, React, Python(Flask), UI/UX Design.</h3>
+<h3 align="left"><h2>🚀About me</h2>Driven Computer Science student with a diverse blend of technical expertise and creative vision. Certified in Google UI/UX Design, Meta Back-End Development, AI/ML, and Business Intelligence. Developed impactful projects ranging from AI chatbots to scalable pharmaceutical research platforms. Proficient in React.js, Python, Tableau, and front-end technologies. Also worked at company “World of Wood” as an design analyst and junior product designer.<br><br>Technical Skills: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow) | Git Web: HTML, CSS, JavaScript, React, Python(Flask), UI/UX Design.</h3>
 
 ###
 
