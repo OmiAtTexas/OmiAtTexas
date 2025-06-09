@@ -12,56 +12,14 @@ You can click the Preview link to take a look at your changes.
 
 Hey there 👋
 
-Possessing a rare amalgamation of self-motivation, go-getter attitude, and unbridled passion for technology, I am a consummate professional with a keen interest in finance, science, coding, and engineering. I am driven by an unquenchable thirst for knowledge, leaving no stone unturned in my quest for continual self-improvement. With an unwaveringly positive attitude and an opportunistic outlook, I am fueled by a boundless optimism that fuels my innovative spirit.
+Driven Computer Science student with a diverse blend of technical expertise and creative vision. Certified in Google UI/UX Design, Meta Back-End Development, AI/ML, and Business Intelligence. Developed impactful projects ranging from AI chatbots to scalable pharmaceutical research platforms. Proficient in React.js, Python, Tableau, and front-end technologies. Also worked at company “World of Wood” as an design analyst and junior product designer.
 
-Technical Skills: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow) | C | Java | Git
-Web: HTML, CSS, JavaScript (Node.js, AngularJS, React, Three.js) | Python (Django, Flask) | WordPress | TS Experience in developing and maintaining scalable and efficient web applications using various JS frameworks Knowledge of SQL, NoSQL databases | Familiarity with cloud services such as AWS, Azure, and Google Cloud
+Technical Skills: Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow) | Git 
+Web: HTML, CSS, JavaScript, React, Python(Flask), UI/UX Design
 
-
-Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in/atharvalade/)
-
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="[https://github.com/atharvalade/VaxQuest](https://github.com/atharvalade/Image-Filter)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=atharvalade&repo=Image-Filter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in/moreom/)
 
 
-<a href="(https://github.com/ttugdsc/HackWesTX-Official-Repo)">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ttugdsc&repo=HackWesTX-Official-Repo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<a href="https://github.com/atharvalade/Volume">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=atharvalade&repo=Volume&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-<a href="https://github.com/atharvalade/Currency-Exchange-Calculator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=atharvalade&repo=Currency-Exchange-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/atharvalade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvalade&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/atharvalade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=atharvalade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
 
 ## 💼 Skills
 
