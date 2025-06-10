@@ -17,7 +17,7 @@ want to know more about me ? [Check out my LinkedIn.](https://www.linkedin.com/i
 
 ###
 
-<h1 align="left">🚀 I code with</h1>
+<h1 align="left">🚀 To code I use</h1>
 
 ###
 
