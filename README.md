@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Om More and I'm a Front-end Developer <br>I am from Dallas,  Texas</h1>
+<h1 align="left">My name is Om More and I'm a Front-end Developer <br>From Dallas, Texas</h1>
 
 ###
 
