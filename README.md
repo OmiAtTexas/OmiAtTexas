@@ -13,7 +13,7 @@
 want to know more about me ? [Check out my LinkedIn.](https://www.linkedin.com/in/moreom/)
 
 ###
-<h3 align="left">💻 Currently working on Serenata app<br>📚 I'm learning React<br>🎲 Fun fact: I love to play Guitar and Drums!</h3>
+<h3 align="left">💻 Currently working on Serenata app<br>📚 I'm learning React & C/C++<br>🎲 Fun fact: I love to play Guitar and Drums!</h3>
 
 ###
 
