@@ -1,4 +1,4 @@
-<h1 align="left">Howdy mate 🤠!</h1>
+<h1 align="left">Howdy mate!</h1>
 
 ###
 
@@ -17,7 +17,7 @@ want to know more about me ? [Check out my LinkedIn.](https://www.linkedin.com/i
 
 ###
 
-<h1 align="left">🚀 To code I use</h1>
+<h1 align="left">To code I use</h1>
 
 ###
 
